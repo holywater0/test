@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE30\uB2A5\uBC18\\Desktop\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6411C2EF-2D04-44EB-B1FC-8D5E011793BF}|Project1\\Project1.vcxproj|C:\\Users\\\uAE30\uB2A5\uBC18\\Desktop\\Project1\\Project1\\jonghak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6411C2EF-2D04-44EB-B1FC-8D5E011793BF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\jonghak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "jonghak.cpp",
+              "DocumentMoniker": "C:\\Users\\\uAE30\uB2A5\uBC18\\Desktop\\Project1\\Project1\\jonghak.cpp",
+              "RelativeDocumentMoniker": "Project1\\jonghak.cpp",
+              "ToolTip": "C:\\Users\\\uAE30\uB2A5\uBC18\\Desktop\\Project1\\Project1\\jonghak.cpp",
+              "RelativeToolTip": "Project1\\jonghak.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T08:32:24.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
